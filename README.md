@@ -12,11 +12,11 @@
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### TakeUForward (1)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-09-23` |
+| 0001 | [1027. Reverse a Stack](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-23` |
 
 ---
 
