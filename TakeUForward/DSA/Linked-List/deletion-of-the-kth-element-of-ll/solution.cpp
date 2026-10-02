@@ -28,7 +28,7 @@ class Solution {
             for(int i=1; i<k-1; i++){
                 curr=curr->next;
             }
-            ListNode* temp= curr->next;
+            ListNode* temp = curr->next;
             curr->next = curr->next->next;
             delete temp;
 
