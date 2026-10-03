@@ -31,7 +31,7 @@
 | 0006 | [1020. Merge Sorting](./TakeUForward/DSA/Sorting/merge-sorting) | [CPP](./TakeUForward/DSA/Sorting/merge-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-25` |
 | 0007 | [136. Palindrome partitioning](./TakeUForward/DSA/Recursion/palindrome-partitioning) | [CPP](./TakeUForward/DSA/Recursion/palindrome-partitioning/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-26` |
 | 0008 | [1024. Quick Sorting](./TakeUForward/DSA/Sorting/quick-sorting) | [CPP](./TakeUForward/DSA/Sorting/quick-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-24` |
-| 0009 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0009 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 | 0010 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
 | 0011 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-29` |
 
