@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | 0 | 16 | 0 | `2026-10-03` |
+| **17** | 0 | 17 | 0 | `2026-10-03` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0001 | [2050 COUNT GOOD NUMBERS](./LeetCode/2050-count-good-numbers) | [count-good-numbers](./LeetCode/2050-count-good-numbers/count-good-numbers.cpp) | 🟡 Medium | `General` | `2026-09-23` |
 | 0002 | [39 COMBINATION SUM](./LeetCode/39-combination-sum) | [combination-sum](./LeetCode/39-combination-sum/combination-sum.cpp) | 🟡 Medium | `Recursion` | `2026-09-24` |
 
-### TakeUForward (14)
+### TakeUForward (15)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -36,7 +36,8 @@
 | 0011 | [1024. Quick Sorting](./TakeUForward/DSA/Sorting/quick-sorting) | [CPP](./TakeUForward/DSA/Sorting/quick-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-24` |
 | 0012 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 | 0013 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
-| 0014 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0014 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0015 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 
 ---
 
