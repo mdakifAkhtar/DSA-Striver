@@ -13,12 +13,10 @@ class ListNode{
 class Solution {
 public:
     vector<int> LLTraversal(ListNode *head) {
-        vector<int>ans;
-        ListNode* temp=head;
-
-        while(temp != NULL){
-            ans.push_back(temp->data);
-            temp=temp->next;
+        vector<int> ans;
+        while(head != NULL){
+            ans.push_back(head->data);
+            head=head->next;
         }
         return ans;
 
