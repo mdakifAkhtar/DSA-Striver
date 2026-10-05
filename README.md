@@ -23,7 +23,7 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [93. Add two numbers in Linked List](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0001 | [93. Add two numbers in Linked List](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/solution.cpp) [Solution-2](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
 | 0002 | [198. Check if LL is palindrome or not](./TakeUForward/DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [CPP](./TakeUForward/DSA/Linked-List/check-if-ll-is-palindrome-or-not/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
 | 0003 | [891. Delete the element with value X](./TakeUForward/DSA/General/delete-the-element-with-value-x) | [CPP](./TakeUForward/DSA/General/delete-the-element-with-value-x/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-01` |
 | 0004 | [260. Delete the middle node in LL](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
@@ -34,7 +34,7 @@
 | 0009 | [954. Insertion at the Kth position of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 | 0010 | [958. Insertion at the tail of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-02` |
 | 0011 | [967. Insertion before the value X in Linked List](./TakeUForward/DSA/Linked-List/insertion-before-the-value-x-in-ll) | [Solution-1](./TakeUForward/DSA/Linked-List/insertion-before-the-value-x-in-ll/Solution-1.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0012 | [769. Length of loop in LL](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-2.cpp) [CPP](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/solution.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-3.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
+| 0012 | [769. Length of loop in LL](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
 | 0013 | [1020. Merge Sorting](./TakeUForward/DSA/Sorting/merge-sorting) | [CPP](./TakeUForward/DSA/Sorting/merge-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-25` |
 | 0014 | [136. Palindrome partitioning](./TakeUForward/DSA/Recursion/palindrome-partitioning) | [CPP](./TakeUForward/DSA/Recursion/palindrome-partitioning/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-26` |
 | 0015 | [1024. Quick Sorting](./TakeUForward/DSA/Sorting/quick-sorting) | [CPP](./TakeUForward/DSA/Sorting/quick-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-24` |
