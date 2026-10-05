@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **21** | 0 | 21 | 0 | `2026-10-05` |
+| **22** | 0 | 22 | 0 | `2026-10-05` |
 
 ---
 
@@ -19,11 +19,11 @@
 | 0001 | [2050 COUNT GOOD NUMBERS](./LeetCode/2050-count-good-numbers) | [count-good-numbers](./LeetCode/2050-count-good-numbers/count-good-numbers.cpp) | 🟡 Medium | `General` | `2026-09-23` |
 | 0002 | [39 COMBINATION SUM](./LeetCode/39-combination-sum) | [combination-sum](./LeetCode/39-combination-sum/combination-sum.cpp) | 🟡 Medium | `Recursion` | `2026-09-24` |
 
-### TakeUForward (19)
+### TakeUForward (20)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [93. Add two numbers in Linked List](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/solution.cpp) [Solution-2](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0001 | [93. Add two numbers in Linked List](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/Solution-2.cpp) [CPP](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
 | 0002 | [198. Check if LL is palindrome or not](./TakeUForward/DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [CPP](./TakeUForward/DSA/Linked-List/check-if-ll-is-palindrome-or-not/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
 | 0003 | [891. Delete the element with value X](./TakeUForward/DSA/General/delete-the-element-with-value-x) | [CPP](./TakeUForward/DSA/General/delete-the-element-with-value-x/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-01` |
 | 0004 | [260. Delete the middle node in LL](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
@@ -41,7 +41,8 @@
 | 0016 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 | 0017 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
 | 0018 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0019 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0019 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0020 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 
 ---
 
