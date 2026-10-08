@@ -20,9 +20,9 @@ public:
         }
 
         if(head->next==NULL){
-            ListNode* temp=head;
-            return NULL;
-            delete temp;
+            delete head;
+            head=NULL;
+            return head;
         }
         ListNode* curr=head;
         while(curr->next->next != NULL){
