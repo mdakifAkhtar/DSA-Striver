@@ -30,7 +30,6 @@ public:
         }
         ListNode* temp=curr->next;
         curr->next=NULL;
-        temp->prev=NULL;
 
         delete temp;
         return head;
