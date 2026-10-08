@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **35** | 0 | 35 | 0 | `2026-10-08` |
+| **36** | 0 | 36 | 0 | `2026-10-08` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0001 | [2050 COUNT GOOD NUMBERS](./LeetCode/2050-count-good-numbers) | [count-good-numbers](./LeetCode/2050-count-good-numbers/count-good-numbers.cpp) | 🟡 Medium | `General` | `2026-09-23` |
 | 0002 | [39 COMBINATION SUM](./LeetCode/39-combination-sum) | [combination-sum](./LeetCode/39-combination-sum/combination-sum.cpp) | 🟡 Medium | `Recursion` | `2026-09-24` |
 
-### TakeUForward (33)
+### TakeUForward (34)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -27,35 +27,36 @@
 | 0002 | [467. Bubble Sort](./TakeUForward/DSA/Arrays/bubble-sort) | [CPP](./TakeUForward/DSA/Arrays/bubble-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
 | 0003 | [198. Check if LL is palindrome or not](./TakeUForward/DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [CPP](./TakeUForward/DSA/Linked-List/check-if-ll-is-palindrome-or-not/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
 | 0004 | [875. Convert Array to Doubly Linked List](./TakeUForward/DSA/Arrays/convert-array-to-dll) | [CPP](./TakeUForward/DSA/Arrays/convert-array-to-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0005 | [888. Delete Kth Element of Doubly Linked List](./TakeUForward/DSA/General/delete-kth-element-of-dll) | [CPP](./TakeUForward/DSA/General/delete-kth-element-of-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0006 | [892. Delete Tail of Doubly Linked List](./TakeUForward/DSA/General/delete-tail-of-dll) | [CPP](./TakeUForward/DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0007 | [891. Delete the element with value X](./TakeUForward/DSA/General/delete-the-element-with-value-x) | [CPP](./TakeUForward/DSA/General/delete-the-element-with-value-x/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-01` |
-| 0008 | [260. Delete the middle node in LL](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
-| 0009 | [905. Deletion of the Kth element of Linked List](./TakeUForward/DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-02` |
-| 0010 | [914. Deletion of the tail of Linked List](./TakeUForward/DSA/Linked-List/deletion-of-the-tail-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/deletion-of-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-30` |
-| 0011 | [998. Find the length of the Linked List](./TakeUForward/DSA/Linked-List/find-the-length-of-the-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/find-the-length-of-the-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0012 | [220. Find the starting point in LL](./TakeUForward/DSA/Linked-List/find-the-starting-point-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/find-the-starting-point-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
-| 0013 | [927. Insert before given node in Doubly Linked List](./TakeUForward/DSA/General/insert-before-given-node-in-dll) | [CPP](./TakeUForward/DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0014 | [980. Insert node before head in Doubly Linked List](./TakeUForward/DSA/General/insert-node-before-head-in-dll) | [CPP](./TakeUForward/DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0015 | [971. Insert node before (kth node) in Doubly Linked List](./TakeUForward/DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./TakeUForward/DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0016 | [985. Insert node before tail in Doubly Linked List](./TakeUForward/DSA/General/insert-node-before-tail-in-dll) | [CPP](./TakeUForward/DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0017 | [941. Insertion at the head of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-02` |
-| 0018 | [954. Insertion at the Kth position of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0019 | [958. Insertion at the tail of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-02` |
-| 0020 | [967. Insertion before the value X in Linked List](./TakeUForward/DSA/Linked-List/insertion-before-the-value-x-in-ll) | [Solution-1](./TakeUForward/DSA/Linked-List/insertion-before-the-value-x-in-ll/Solution-1.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0021 | [769. Length of loop in LL](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
-| 0022 | [1020. Merge Sorting](./TakeUForward/DSA/Arrays/merge-sorting) | [CPP](./TakeUForward/DSA/Arrays/merge-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
-| 0023 | [136. Palindrome partitioning](./TakeUForward/DSA/Recursion/palindrome-partitioning) | [CPP](./TakeUForward/DSA/Recursion/palindrome-partitioning/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-26` |
-| 0024 | [1024. Quick Sorting](./TakeUForward/DSA/Arrays/quick-sorting) | [CPP](./TakeUForward/DSA/Arrays/quick-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
-| 0025 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0026 | [820. Removing given node in Doubly Linked List](./TakeUForward/DSA/General/removing-given-node-in-dll) | [CPP](./TakeUForward/DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0027 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
-| 0028 | [149. Rotate a LL](./TakeUForward/DSA/Linked-List/rotate-a-ll) | [CPP](./TakeUForward/DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-07` |
-| 0029 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0030 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
-| 0031 | [1031. Selection Sort](./TakeUForward/DSA/Arrays/selection-sort) | [CPP](./TakeUForward/DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
-| 0032 | [124. Sort LL](./TakeUForward/DSA/Linked-List/sort-ll) | [CPP](./TakeUForward/DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-06` |
-| 0033 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0005 | [879. Delete head of Doubly Linked List](./TakeUForward/DSA/General/delete-head-of-dll) | [CPP](./TakeUForward/DSA/General/delete-head-of-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0006 | [888. Delete Kth Element of Doubly Linked List](./TakeUForward/DSA/General/delete-kth-element-of-dll) | [CPP](./TakeUForward/DSA/General/delete-kth-element-of-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0007 | [892. Delete Tail of Doubly Linked List](./TakeUForward/DSA/General/delete-tail-of-dll) | [CPP](./TakeUForward/DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0008 | [891. Delete the element with value X](./TakeUForward/DSA/General/delete-the-element-with-value-x) | [CPP](./TakeUForward/DSA/General/delete-the-element-with-value-x/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-01` |
+| 0009 | [260. Delete the middle node in LL](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/delete-the-middle-node-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
+| 0010 | [905. Deletion of the Kth element of Linked List](./TakeUForward/DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-02` |
+| 0011 | [914. Deletion of the tail of Linked List](./TakeUForward/DSA/Linked-List/deletion-of-the-tail-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/deletion-of-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-30` |
+| 0012 | [998. Find the length of the Linked List](./TakeUForward/DSA/Linked-List/find-the-length-of-the-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/find-the-length-of-the-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0013 | [220. Find the starting point in LL](./TakeUForward/DSA/Linked-List/find-the-starting-point-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/find-the-starting-point-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0014 | [927. Insert before given node in Doubly Linked List](./TakeUForward/DSA/General/insert-before-given-node-in-dll) | [CPP](./TakeUForward/DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0015 | [980. Insert node before head in Doubly Linked List](./TakeUForward/DSA/General/insert-node-before-head-in-dll) | [CPP](./TakeUForward/DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0016 | [971. Insert node before (kth node) in Doubly Linked List](./TakeUForward/DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./TakeUForward/DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0017 | [985. Insert node before tail in Doubly Linked List](./TakeUForward/DSA/General/insert-node-before-tail-in-dll) | [CPP](./TakeUForward/DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0018 | [941. Insertion at the head of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-02` |
+| 0019 | [954. Insertion at the Kth position of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0020 | [958. Insertion at the tail of Linked List](./TakeUForward/DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./TakeUForward/DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-02` |
+| 0021 | [967. Insertion before the value X in Linked List](./TakeUForward/DSA/Linked-List/insertion-before-the-value-x-in-ll) | [Solution-1](./TakeUForward/DSA/Linked-List/insertion-before-the-value-x-in-ll/Solution-1.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0022 | [769. Length of loop in LL](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-04` |
+| 0023 | [1020. Merge Sorting](./TakeUForward/DSA/Arrays/merge-sorting) | [CPP](./TakeUForward/DSA/Arrays/merge-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0024 | [136. Palindrome partitioning](./TakeUForward/DSA/Recursion/palindrome-partitioning) | [CPP](./TakeUForward/DSA/Recursion/palindrome-partitioning/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-26` |
+| 0025 | [1024. Quick Sorting](./TakeUForward/DSA/Arrays/quick-sorting) | [CPP](./TakeUForward/DSA/Arrays/quick-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0026 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0027 | [820. Removing given node in Doubly Linked List](./TakeUForward/DSA/General/removing-given-node-in-dll) | [CPP](./TakeUForward/DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0028 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
+| 0029 | [149. Rotate a LL](./TakeUForward/DSA/Linked-List/rotate-a-ll) | [CPP](./TakeUForward/DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-07` |
+| 0030 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0031 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0032 | [1031. Selection Sort](./TakeUForward/DSA/Arrays/selection-sort) | [CPP](./TakeUForward/DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
+| 0033 | [124. Sort LL](./TakeUForward/DSA/Linked-List/sort-ll) | [CPP](./TakeUForward/DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-06` |
+| 0034 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 
 ---
 
