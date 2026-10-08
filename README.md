@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **36** | 0 | 36 | 0 | `2026-10-08` |
+| **37** | 0 | 37 | 0 | `2026-10-08` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0001 | [2050 COUNT GOOD NUMBERS](./LeetCode/2050-count-good-numbers) | [count-good-numbers](./LeetCode/2050-count-good-numbers/count-good-numbers.cpp) | 🟡 Medium | `General` | `2026-09-23` |
 | 0002 | [39 COMBINATION SUM](./LeetCode/39-combination-sum) | [combination-sum](./LeetCode/39-combination-sum/combination-sum.cpp) | 🟡 Medium | `Recursion` | `2026-09-24` |
 
-### TakeUForward (34)
+### TakeUForward (35)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -50,13 +50,14 @@
 | 0025 | [1024. Quick Sorting](./TakeUForward/DSA/Arrays/quick-sorting) | [CPP](./TakeUForward/DSA/Arrays/quick-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
 | 0026 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 | 0027 | [820. Removing given node in Doubly Linked List](./TakeUForward/DSA/General/removing-given-node-in-dll) | [CPP](./TakeUForward/DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0028 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
-| 0029 | [149. Rotate a LL](./TakeUForward/DSA/Linked-List/rotate-a-ll) | [CPP](./TakeUForward/DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-07` |
-| 0030 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0031 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
-| 0032 | [1031. Selection Sort](./TakeUForward/DSA/Arrays/selection-sort) | [CPP](./TakeUForward/DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
-| 0033 | [124. Sort LL](./TakeUForward/DSA/Linked-List/sort-ll) | [CPP](./TakeUForward/DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-06` |
-| 0034 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0028 | [601. Reverse a Doubly Linked List](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0029 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
+| 0030 | [149. Rotate a LL](./TakeUForward/DSA/Linked-List/rotate-a-ll) | [CPP](./TakeUForward/DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-07` |
+| 0031 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0032 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0033 | [1031. Selection Sort](./TakeUForward/DSA/Arrays/selection-sort) | [CPP](./TakeUForward/DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
+| 0034 | [124. Sort LL](./TakeUForward/DSA/Linked-List/sort-ll) | [CPP](./TakeUForward/DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-06` |
+| 0035 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 
 ---
 
