@@ -16,7 +16,7 @@ class Solution {
             int count0=0;
             int count1=0;
             int count2=0;
-            //count frequency of eleemnt
+            // Count 0, 1 and 2
             ListNode* curr=head;
             while(curr != NULL){
                 if(curr->data==0){
@@ -30,7 +30,7 @@ class Solution {
                 }
                 curr=curr->next;
             }
-            // store the the values as frequency
+            // Put sorted values back
             ListNode* temp=head; // reset.
             while(temp != NULL){
                 if(count0){
