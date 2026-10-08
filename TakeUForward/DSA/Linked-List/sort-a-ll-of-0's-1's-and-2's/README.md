@@ -28,10 +28,6 @@ Do it **in-place** by changing **** the links between the nodes without **** cre
 
 **Explanation:** The values after sorting are [0, 1, 1, 1].
 
-### Example 3:
-
-<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
-
 Still unsure what the problem is asking ?
 
 Let’s go through a few more examples, step by step, to make it clearer.
