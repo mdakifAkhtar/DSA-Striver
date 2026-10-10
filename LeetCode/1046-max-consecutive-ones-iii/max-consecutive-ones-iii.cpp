@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // T O(n);
     int longestOnes(vector<int>& nums, int k) {
         int n=nums.size();
         int l=0;
@@ -11,7 +12,7 @@ public:
             if(nums[r]==0){
                 zeros++;
             }
-            while(zeros > k){
+            if(zeros > k){
                 if(nums[l]==0){
                     zeros--;
                 }
