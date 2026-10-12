@@ -8,6 +8,7 @@ public:
         unordered_map<int,int>mp;
 
         while(r < n){
+            //mp[fruits[r]] = mp[fruits[r]] + 1; // Count the current fruit.
             mp[fruits[r]]++; // Add the current fruit to the window
             while(mp.size() > 2){ // Shrink window if more than 2 fruit types
                 mp[fruits[l]]--;// Decrease frequency of the leftmost fruit
