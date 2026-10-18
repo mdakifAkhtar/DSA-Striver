@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //Time Complexity: O(n)
+    //Space Complexity: O(n)
     vector<int> asteroidCollision(vector<int>& asteroids) {
         int n=asteroids.size();
         stack<int>st;
