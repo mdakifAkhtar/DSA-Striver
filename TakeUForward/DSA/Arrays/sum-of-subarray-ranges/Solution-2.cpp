@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // T.C O(N2)
     long long subArrayRanges(vector<int> &nums) {
         int n=nums.size();
         long long sum=0;
