@@ -1,14 +1,15 @@
 class Solution
 {
 public:
+    // T.C O(3n)
     int trap(vector<int> &height){
         int n=height.size();
         if(n==0)return 0;
         vector<int>leftMax(n,0);
         vector<int>rightMax(n,0);
 
-        leftMax[0]=0; // initilize with starting index value zero
-        rightMax[n-1]=0; // initilizing ending value zero
+        //leftMax[0]=0; // initilize with starting index value zero
+        //rightMax[n-1]=0; // initilizing ending value zero
 
         // Calculate left maximum
         for(int i=1; i<n; i++){
