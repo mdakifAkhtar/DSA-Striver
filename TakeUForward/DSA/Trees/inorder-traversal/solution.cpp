@@ -11,11 +11,15 @@
 class Solution{
 	public:
         void inOrder(TreeNode* root,vector<int>&ans){
+            // Base case
             if(root==NULL){
                 return;
             }
+            // Step 1: Traverse left subtree
             inOrder(root->left,ans);
+            // Step 2: Visit current node
             ans.push_back(root->data);
+            // Step 3: Traverse right subtree
             inOrder(root->right,ans);
 
         }
