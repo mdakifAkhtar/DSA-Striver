@@ -11,28 +11,26 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root){
-        if(root== NULL){
+    int checkHeight(TreeNode* root){
+        if(root==NULL){
             return 0;
         }
-        int leftHeight=height(root->left);
-        int rightHeight=height(root->right);
 
-        return 1 + max(leftHeight,rightHeight);
+        int leftHeight=checkHeight(root->left);
+        if(leftHeight == -1) return -1;
+
+        int rightHeight=checkHeight(root->right);
+        if(rightHeight == -1) return -1;
+
+        if(abs(leftHeight-rightHeight) > 1){
+            return -1;
+        }
+
+        return 1+ max(leftHeight,rightHeight);
     }
-
     bool isBalanced(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
-
-        int leftHeight=height(root->left);
-        int rightHeight=height(root->right);
-
-        if(abs(leftHeight-rightHeight) > 1){ // Every node has a height difference of at most 1 between its left and right subtree will be height balanced.
-            return false;
-        }
-
-        return isBalanced(root->left) && isBalanced(root->right);
+        //return checkHeight(root) != -1; //  returns true if the result is not -1.
+        int balanced=checkHeight(root);
+           return balanced != -1;
     }
 };
