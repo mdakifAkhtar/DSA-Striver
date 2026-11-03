@@ -11,7 +11,7 @@
 class Solution{	
 	public:
         // T.C O(N);
-        // S.C O(1)
+        // S.C O(1);
 		vector<int> floorCeilOfBST(TreeNode* root,int key){
             int floor=-1;
             int ceil=-1;
