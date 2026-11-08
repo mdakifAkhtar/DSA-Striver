@@ -15,7 +15,6 @@ public:
     // S.C O(H)
     TreeNode* first = NULL;
     TreeNode* second= NULL;
-    TreeNode* middle=NULL;
     TreeNode* prev  = NULL;
 
     void inorder(TreeNode* root){
@@ -27,11 +26,8 @@ public:
         if(prev != NULL && prev->val > root->val){
             if(first == NULL){
                 first=prev;
-                middle=root;
             }
-            else{
-                second = root;
-            }
+            second = root;
         }
         prev=root;
         inorder(root->right);
@@ -39,11 +35,6 @@ public:
 
     void recoverTree(TreeNode* root) {
         inorder(root);
-        if(second != NULL){
-            swap(first->val,second->val);
-        }
-        else{
-            swap(first->val,middle->val);
-        }
+        swap(first->val,second->val);
     }
 };
