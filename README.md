@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **130** | 0 | 130 | 0 | `2026-11-18` |
+| **131** | 0 | 131 | 0 | `2026-11-18` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0001 | [2050 COUNT GOOD NUMBERS](./LeetCode/2050-count-good-numbers) | [count-good-numbers](./LeetCode/2050-count-good-numbers/count-good-numbers.cpp) | 🟡 Medium | `General` | `2026-09-23` |
 | 0002 | [39 COMBINATION SUM](./LeetCode/39-combination-sum) | [combination-sum](./LeetCode/39-combination-sum/combination-sum.cpp) | 🟡 Medium | `Recursion` | `2026-09-24` |
 
-### TakeUForward (128)
+### TakeUForward (129)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -107,7 +107,7 @@
 | 0082 | [102. Next Greater Element](./TakeUForward/DSA/General/next-greater-element) | [CPP](./TakeUForward/DSA/General/next-greater-element/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-17` |
 | 0083 | [300. Next Greater Element - 2](./TakeUForward/DSA/General/next-greater-element---2) | [CPP](./TakeUForward/DSA/General/next-greater-element---2/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-18` |
 | 0084 | [194. Next Smaller Element](./TakeUForward/DSA/General/next-smaller-element) | [CPP](./TakeUForward/DSA/General/next-smaller-element/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-25` |
-| 0085 | [89. Non-overlapping Intervals](./TakeUForward/DSA/General/non-overlapping-intervals) | [CPP](./TakeUForward/DSA/General/non-overlapping-intervals/solution.cpp) [Solution-2](./TakeUForward/DSA/General/non-overlapping-intervals/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-14` |
+| 0085 | [89. Non-overlapping Intervals](./TakeUForward/DSA/General/non-overlapping-intervals) | [Solution-2](./TakeUForward/DSA/General/non-overlapping-intervals/Solution-2.cpp) [CPP](./TakeUForward/DSA/General/non-overlapping-intervals/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-14` |
 | 0086 | [864. Number of Greater Elements to the Right](./TakeUForward/DSA/General/number-of-greater-elements-to-the-right) | [CPP](./TakeUForward/DSA/General/number-of-greater-elements-to-the-right/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-25` |
 | 0087 | [388. Number of Substrings Containing All Three Characters](./TakeUForward/DSA/Strings/number-of-substrings-containing-all-three-characters) | [CPP](./TakeUForward/DSA/Strings/number-of-substrings-containing-all-three-characters/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-14` |
 | 0088 | [136. Palindrome partitioning](./TakeUForward/DSA/Recursion/palindrome-partitioning) | [CPP](./TakeUForward/DSA/Recursion/palindrome-partitioning/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-09-26` |
@@ -149,8 +149,9 @@
 | 0124 | [8. Trapping Rainwater](./TakeUForward/DSA/General/trapping-rainwater) | [Solution-2](./TakeUForward/DSA/General/trapping-rainwater/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/General/trapping-rainwater/Solution-3.cpp) | ⚪ Unspecified | `DSA` | `2026-10-22` |
 | 0125 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
 | 0126 | [122. Two sum in BST](./TakeUForward/DSA/Trees/two-sum-in-bst) | [Solution-2](./TakeUForward/DSA/Trees/two-sum-in-bst/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-07` |
-| 0127 | [193. Vertical Order Traversal](./TakeUForward/DSA/Trees/vertical-order-traversal) | [CPP](./TakeUForward/DSA/Trees/vertical-order-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-30` |
-| 0128 | [204. Zig Zag or Spiral Traversal](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal) | [CPP](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-28` |
+| 0127 | [243. Valid Parenthesis Checker](./TakeUForward/DSA/Recursion/valid-paranthesis-checker) | [CPP](./TakeUForward/DSA/Recursion/valid-paranthesis-checker/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-18` |
+| 0128 | [193. Vertical Order Traversal](./TakeUForward/DSA/Trees/vertical-order-traversal) | [CPP](./TakeUForward/DSA/Trees/vertical-order-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-30` |
+| 0129 | [204. Zig Zag or Spiral Traversal](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal) | [CPP](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-28` |
 
 ---
 
