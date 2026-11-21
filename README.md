@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **132** | 0 | 132 | 0 | `2026-11-20` |
+| **132** | 0 | 132 | 0 | `2026-11-21` |
 
 ---
 
@@ -31,7 +31,7 @@
 | 0006 | [113. Bottom view of BT](./TakeUForward/DSA/Trees/bottom-view-of-bt) | [CPP](./TakeUForward/DSA/Trees/bottom-view-of-bt/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-29` |
 | 0007 | [230. BST iterator](./TakeUForward/DSA/Trees/bst-iterator) | [CPP](./TakeUForward/DSA/Trees/bst-iterator/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-07` |
 | 0008 | [467. Bubble Sort](./TakeUForward/DSA/Arrays/bubble-sort) | [CPP](./TakeUForward/DSA/Arrays/bubble-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
-| 0009 | [258. Candy](./TakeUForward/DSA/General/candy) | [CPP](./TakeUForward/DSA/General/candy/solution.cpp) [Solution-2](./TakeUForward/DSA/General/candy/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-20` |
+| 0009 | [258. Candy](./TakeUForward/DSA/General/candy) | [CPP](./TakeUForward/DSA/General/candy/solution.cpp) [Solution-2](./TakeUForward/DSA/General/candy/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/General/candy/Solution-3.cpp) | ⚪ Unspecified | `DSA` | `2026-11-21` |
 | 0010 | [53. Check for balanced binary tree](./TakeUForward/DSA/Trees/check-for-balanced-binary-tree) | [Solution-1](./TakeUForward/DSA/Trees/check-for-balanced-binary-tree/Solution-1.cpp) [Solution-2](./TakeUForward/DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-10-27` |
 | 0011 | [105. Check for symmetrical BTs](./TakeUForward/DSA/Trees/check-for-symmetrical-bts) | [CPP](./TakeUForward/DSA/Trees/check-for-symmetrical-bts/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-28` |
 | 0012 | [289. Check if a Number is Power of 2 or Not](./TakeUForward/DSA/General/check-if-a-number-is-power-of-2-or-not) | [CPP](./TakeUForward/DSA/General/check-if-a-number-is-power-of-2-or-not/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-08` |
