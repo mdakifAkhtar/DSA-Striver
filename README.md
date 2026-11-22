@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **137** | 0 | 137 | 0 | `2026-11-22` |
+| **138** | 0 | 138 | 0 | `2026-11-22` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0001 | [2050 COUNT GOOD NUMBERS](./LeetCode/2050-count-good-numbers) | [count-good-numbers](./LeetCode/2050-count-good-numbers/count-good-numbers.cpp) | 🟡 Medium | `General` | `2026-09-23` |
 | 0002 | [39 COMBINATION SUM](./LeetCode/39-combination-sum) | [combination-sum](./LeetCode/39-combination-sum/combination-sum.cpp) | 🟡 Medium | `Recursion` | `2026-09-24` |
 
-### TakeUForward (135)
+### TakeUForward (136)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -129,35 +129,36 @@
 | 0104 | [1024. Quick Sorting](./TakeUForward/DSA/Arrays/quick-sorting) | [Solution-1](./TakeUForward/DSA/Arrays/quick-sorting/Solution-1.cpp) [CPP](./TakeUForward/DSA/Arrays/quick-sorting/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-22` |
 | 0105 | [936. Recursive Bubble Sort](./TakeUForward/DSA/Recursion/recursive-bubble-sort) | [Solution-2](./TakeUForward/DSA/Recursion/recursive-bubble-sort/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-22` |
 | 0106 | [938. Remove duplicates from sorted DLL](./TakeUForward/DSA/Arrays/remove-duplicated-from-sorted-dll) | [CPP](./TakeUForward/DSA/Arrays/remove-duplicated-from-sorted-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-09` |
-| 0107 | [281. Remove K Digits](./TakeUForward/DSA/General/remove-k-digits) | [CPP](./TakeUForward/DSA/General/remove-k-digits/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-21` |
-| 0108 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0109 | [820. Removing given node in Doubly Linked List](./TakeUForward/DSA/General/removing-given-node-in-dll) | [CPP](./TakeUForward/DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0110 | [601. Reverse a Doubly Linked List](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list) | [Solution-3](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0111 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
-| 0112 | [189. Reverse every word in a string](./TakeUForward/DSA/Strings/reverse-every-word-in-a-string) | [CPP](./TakeUForward/DSA/Strings/reverse-every-word-in-a-string/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-11` |
-| 0113 | [56. Right/Left View of BT](./TakeUForward/DSA/General/right-left-view-of-bt) | [CPP](./TakeUForward/DSA/General/right-left-view-of-bt/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-29` |
-| 0114 | [149. Rotate a LL](./TakeUForward/DSA/Linked-List/rotate-a-ll) | [CPP](./TakeUForward/DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-07` |
-| 0115 | [13. Search in BST](./TakeUForward/DSA/Trees/search-in-bst) | [CPP](./TakeUForward/DSA/Trees/search-in-bst/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-03` |
-| 0116 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0117 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
-| 0118 | [1031. Selection Sort](./TakeUForward/DSA/Arrays/selection-sort) | [CPP](./TakeUForward/DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
-| 0119 | [63. Single Number - I](./TakeUForward/DSA/Bit-Manipulation/single-number---i) | [Solution-2](./TakeUForward/DSA/Bit-Manipulation/single-number---i/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
-| 0120 | [225. Single Number - II](./TakeUForward/DSA/Bit-Manipulation/single-number---ii) | [Solution-2](./TakeUForward/DSA/Bit-Manipulation/single-number---ii/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
-| 0121 | [346. Single Number - III](./TakeUForward/DSA/Bit-Manipulation/single-number---iii) | [Solution-2](./TakeUForward/DSA/Bit-Manipulation/single-number---iii/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
-| 0122 | [57. Sliding Window Maximum](./TakeUForward/DSA/Sliding-Window/sliding-window-maximum) | [Solution-1](./TakeUForward/DSA/Sliding-Window/sliding-window-maximum/Solution-1.cpp) | ⚪ Unspecified | `DSA` | `2026-10-21` |
-| 0123 | [778. Sort a Linked List of 0's 1's and 2's](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [Solution-1](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/Solution-1.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
-| 0124 | [124. Sort LL](./TakeUForward/DSA/Linked-List/sort-ll) | [CPP](./TakeUForward/DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-06` |
-| 0125 | [217. Stock span problem](./TakeUForward/DSA/General/stock-span-problem) | [CPP](./TakeUForward/DSA/General/stock-span-problem/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-24` |
-| 0126 | [331. Sum of Subarray Minimums](./TakeUForward/DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./TakeUForward/DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-10-19` |
-| 0127 | [359. Sum of Subarray Ranges](./TakeUForward/DSA/Arrays/sum-of-subarray-ranges) | [Solution-2](./TakeUForward/DSA/Arrays/sum-of-subarray-ranges/Solution-2.cpp) [CPP](./TakeUForward/DSA/Arrays/sum-of-subarray-ranges/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-20` |
-| 0128 | [805. Swap Two Numbers](./TakeUForward/DSA/General/swap-two-numbers) | [CPP](./TakeUForward/DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
-| 0129 | [180. Top View of BT](./TakeUForward/DSA/Trees/top-view-of-bt) | [CPP](./TakeUForward/DSA/Trees/top-view-of-bt/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-30` |
-| 0130 | [8. Trapping Rainwater](./TakeUForward/DSA/General/trapping-rainwater) | [Solution-2](./TakeUForward/DSA/General/trapping-rainwater/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/General/trapping-rainwater/Solution-3.cpp) | ⚪ Unspecified | `DSA` | `2026-10-22` |
-| 0131 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0132 | [122. Two sum in BST](./TakeUForward/DSA/Trees/two-sum-in-bst) | [Solution-2](./TakeUForward/DSA/Trees/two-sum-in-bst/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-07` |
-| 0133 | [243. Valid Parenthesis Checker](./TakeUForward/DSA/Recursion/valid-paranthesis-checker) | [CPP](./TakeUForward/DSA/Recursion/valid-paranthesis-checker/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-18` |
-| 0134 | [193. Vertical Order Traversal](./TakeUForward/DSA/Trees/vertical-order-traversal) | [CPP](./TakeUForward/DSA/Trees/vertical-order-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-30` |
-| 0135 | [204. Zig Zag or Spiral Traversal](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal) | [CPP](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-28` |
+| 0107 | [196. Remove duplicates from sorted array](./TakeUForward/DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./TakeUForward/DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-22` |
+| 0108 | [281. Remove K Digits](./TakeUForward/DSA/General/remove-k-digits) | [CPP](./TakeUForward/DSA/General/remove-k-digits/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-21` |
+| 0109 | [81. Remove Nth node from the back of the LL](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0110 | [820. Removing given node in Doubly Linked List](./TakeUForward/DSA/General/removing-given-node-in-dll) | [CPP](./TakeUForward/DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0111 | [601. Reverse a Doubly Linked List](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list) | [Solution-3](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0112 | [REVERSE A STACK](./TakeUForward/DSA/Stack-Queue/reverse-a-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/reverse-a-stack/solution.cpp) | 🟡 Medium | `DSA` | `2026-09-23` |
+| 0113 | [189. Reverse every word in a string](./TakeUForward/DSA/Strings/reverse-every-word-in-a-string) | [CPP](./TakeUForward/DSA/Strings/reverse-every-word-in-a-string/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-11` |
+| 0114 | [56. Right/Left View of BT](./TakeUForward/DSA/General/right-left-view-of-bt) | [CPP](./TakeUForward/DSA/General/right-left-view-of-bt/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-29` |
+| 0115 | [149. Rotate a LL](./TakeUForward/DSA/Linked-List/rotate-a-ll) | [CPP](./TakeUForward/DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-07` |
+| 0116 | [13. Search in BST](./TakeUForward/DSA/Trees/search-in-bst) | [CPP](./TakeUForward/DSA/Trees/search-in-bst/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-03` |
+| 0117 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0118 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
+| 0119 | [1031. Selection Sort](./TakeUForward/DSA/Arrays/selection-sort) | [CPP](./TakeUForward/DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
+| 0120 | [63. Single Number - I](./TakeUForward/DSA/Bit-Manipulation/single-number---i) | [Solution-2](./TakeUForward/DSA/Bit-Manipulation/single-number---i/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
+| 0121 | [225. Single Number - II](./TakeUForward/DSA/Bit-Manipulation/single-number---ii) | [Solution-2](./TakeUForward/DSA/Bit-Manipulation/single-number---ii/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
+| 0122 | [346. Single Number - III](./TakeUForward/DSA/Bit-Manipulation/single-number---iii) | [Solution-2](./TakeUForward/DSA/Bit-Manipulation/single-number---iii/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
+| 0123 | [57. Sliding Window Maximum](./TakeUForward/DSA/Sliding-Window/sliding-window-maximum) | [Solution-1](./TakeUForward/DSA/Sliding-Window/sliding-window-maximum/Solution-1.cpp) | ⚪ Unspecified | `DSA` | `2026-10-21` |
+| 0124 | [778. Sort a Linked List of 0's 1's and 2's](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [Solution-1](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/Solution-1.cpp) [Solution-3](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/Solution-3.cpp) [CPP](./TakeUForward/DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-08` |
+| 0125 | [124. Sort LL](./TakeUForward/DSA/Linked-List/sort-ll) | [CPP](./TakeUForward/DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-06` |
+| 0126 | [217. Stock span problem](./TakeUForward/DSA/General/stock-span-problem) | [CPP](./TakeUForward/DSA/General/stock-span-problem/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-24` |
+| 0127 | [331. Sum of Subarray Minimums](./TakeUForward/DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./TakeUForward/DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-10-19` |
+| 0128 | [359. Sum of Subarray Ranges](./TakeUForward/DSA/Arrays/sum-of-subarray-ranges) | [Solution-2](./TakeUForward/DSA/Arrays/sum-of-subarray-ranges/Solution-2.cpp) [CPP](./TakeUForward/DSA/Arrays/sum-of-subarray-ranges/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-20` |
+| 0129 | [805. Swap Two Numbers](./TakeUForward/DSA/General/swap-two-numbers) | [CPP](./TakeUForward/DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-09` |
+| 0130 | [180. Top View of BT](./TakeUForward/DSA/Trees/top-view-of-bt) | [CPP](./TakeUForward/DSA/Trees/top-view-of-bt/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-30` |
+| 0131 | [8. Trapping Rainwater](./TakeUForward/DSA/General/trapping-rainwater) | [Solution-2](./TakeUForward/DSA/General/trapping-rainwater/Solution-2.cpp) [Solution-3](./TakeUForward/DSA/General/trapping-rainwater/Solution-3.cpp) | ⚪ Unspecified | `DSA` | `2026-10-22` |
+| 0132 | [1014. Traversal in Linked List](./TakeUForward/DSA/Linked-List/traversal-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
+| 0133 | [122. Two sum in BST](./TakeUForward/DSA/Trees/two-sum-in-bst) | [Solution-2](./TakeUForward/DSA/Trees/two-sum-in-bst/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-07` |
+| 0134 | [243. Valid Parenthesis Checker](./TakeUForward/DSA/Recursion/valid-paranthesis-checker) | [CPP](./TakeUForward/DSA/Recursion/valid-paranthesis-checker/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-18` |
+| 0135 | [193. Vertical Order Traversal](./TakeUForward/DSA/Trees/vertical-order-traversal) | [CPP](./TakeUForward/DSA/Trees/vertical-order-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-30` |
+| 0136 | [204. Zig Zag or Spiral Traversal](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal) | [CPP](./TakeUForward/DSA/General/zig-zag-or-spiral-traversal/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-28` |
 
 ---
 
