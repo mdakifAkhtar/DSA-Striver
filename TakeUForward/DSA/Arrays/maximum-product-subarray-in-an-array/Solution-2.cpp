@@ -7,6 +7,7 @@ public:
         int ans=nums[0];
 
         for(int i=1; i<n; i++){
+            // Negative number reverses maximum and minimum when we multiply negative with negative become positive
             if(nums[i] < 0){
                 swap(mini,maxi);
             }
