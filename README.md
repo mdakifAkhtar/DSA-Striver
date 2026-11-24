@@ -23,7 +23,7 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [21. 3 Sum](./TakeUForward/DSA/General/3-sum) | [CPP](./TakeUForward/DSA/General/3-sum/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-24` |
+| 0001 | [21. 3 Sum](./TakeUForward/DSA/General/3-sum) | [CPP](./TakeUForward/DSA/General/3-sum/solution.cpp) [Solution-2](./TakeUForward/DSA/General/3-sum/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-24` |
 | 0002 | [93. Add two numbers in Linked List](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll) | [Solution-2](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/Solution-2.cpp) [CPP](./TakeUForward/DSA/Linked-List/add-two-numbers-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
 | 0003 | [104. Assign Cookies](./TakeUForward/DSA/General/assign-cookies) | [CPP](./TakeUForward/DSA/General/assign-cookies/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-11` |
 | 0004 | [85. Asteroid Collision](./TakeUForward/DSA/General/asteroid-collision) | [CPP](./TakeUForward/DSA/General/asteroid-collision/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-18` |
