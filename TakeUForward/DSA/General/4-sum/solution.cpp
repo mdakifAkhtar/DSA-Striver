@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         int n=nums.size();
-        unordered_map<int,int>mp;
         vector<vector<int>>ans;
 
         sort(nums.begin(),nums.end());
