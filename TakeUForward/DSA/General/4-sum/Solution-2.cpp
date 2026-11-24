@@ -24,7 +24,6 @@ public:
 
                     if(set.find(need) != set.end()){
                         vector<int>temp={nums[i],nums[j],(int)need,nums[k]};
-                        sort(temp.begin(),temp.end());
                         st.insert(temp);
                     }
                     set.insert(nums[k]);
