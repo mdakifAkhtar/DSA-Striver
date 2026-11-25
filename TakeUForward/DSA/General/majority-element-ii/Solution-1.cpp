@@ -7,7 +7,8 @@ public:
         int candidate2=INT_MIN;
         int count1=0;
         int count2=0;
-
+        
+        // First pass: Find candidates
         for(int i=0; i<n; i++){
             if(nums[i]== candidate1){
                 count1++;
