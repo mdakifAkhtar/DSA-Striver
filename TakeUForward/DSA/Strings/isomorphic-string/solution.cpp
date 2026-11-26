@@ -11,12 +11,14 @@ public:
         unordered_map<char,char>mp2;
 
         for(int i=0; i<n; i++){
+             // Check mapping from s to t
             if(mp1.find(s[i]) != mp1.end()){
                 if(mp1[s[i]] != t[i]){
                     return false;
                 }
             }
-            else if(mp2.find(t[i]) != mp2.end()){
+            // Check mapping from t to s
+            if(mp2.find(t[i]) != mp2.end()){
                 if(mp2[t[i]] != s[i]){
                     return false;
                 }
