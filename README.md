@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **155** | 0 | 155 | 0 | `2026-11-25` |
+| **155** | 0 | 155 | 0 | `2026-11-26` |
 
 ---
 
@@ -69,7 +69,7 @@
 | 0044 | [206. Floor and Ceil in a BST](./TakeUForward/DSA/Trees/floor-and-ceil-in-a-bst) | [CPP](./TakeUForward/DSA/Trees/floor-and-ceil-in-a-bst/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-03` |
 | 0045 | [174. Fractional Knapsack](./TakeUForward/DSA/Dynamic-Programming/fractional-knapsack) | [CPP](./TakeUForward/DSA/Dynamic-Programming/fractional-knapsack/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-13` |
 | 0046 | [329. Fruit Into Baskets](./TakeUForward/DSA/General/fruit-into-baskets) | [CPP](./TakeUForward/DSA/General/fruit-into-baskets/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-10` |
-| 0047 | [296. Highest Occurring Element in an Array](./TakeUForward/DSA/Arrays/highest-occurring-element-in-an-array) | [CPP](./TakeUForward/DSA/Arrays/highest-occurring-element-in-an-array/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-25` |
+| 0047 | [296. Highest Occurring Element in an Array](./TakeUForward/DSA/Arrays/highest-occurring-element-in-an-array) | [CPP](./TakeUForward/DSA/Arrays/highest-occurring-element-in-an-array/solution.cpp) [Solution-2](./TakeUForward/DSA/Arrays/highest-occurring-element-in-an-array/Solution-2.cpp) | ⚪ Unspecified | `DSA` | `2026-11-26` |
 | 0048 | [23. Implement Min Stack](./TakeUForward/DSA/Stack-Queue/implement-min-stack) | [CPP](./TakeUForward/DSA/Stack-Queue/implement-min-stack/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-21` |
 | 0049 | [147. Implement Queue using Arrays](./TakeUForward/DSA/Stack-Queue/implement-queue-using-arrays) | [CPP](./TakeUForward/DSA/Stack-Queue/implement-queue-using-arrays/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-15` |
 | 0050 | [894. Implement queue using Linkedlist](./TakeUForward/DSA/Linked-List/implement-queue-using-linkedlist) | [CPP](./TakeUForward/DSA/Linked-List/implement-queue-using-linkedlist/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-16` |
