@@ -1,6 +1,6 @@
 class Solution{	
 	public:
-        long long int fact(int i,int long long sum,int n){
+        long long int fact(int i,long long int sum,int n){
             if(i > n){
                 return sum;
             }
