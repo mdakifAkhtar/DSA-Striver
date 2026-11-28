@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **172** | 0 | 172 | 0 | `2026-11-27` |
+| **172** | 0 | 172 | 0 | `2026-11-28` |
 
 ---
 
@@ -166,7 +166,7 @@
 | 0141 | [324. Rotate String](./TakeUForward/DSA/Strings/rotate-string) | [CPP](./TakeUForward/DSA/Strings/rotate-string/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-26` |
 | 0142 | [13. Search in BST](./TakeUForward/DSA/Trees/search-in-bst) | [CPP](./TakeUForward/DSA/Trees/search-in-bst/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-03` |
 | 0143 | [1039. Search in Linked List](./TakeUForward/DSA/Linked-List/search-in-linked-list) | [CPP](./TakeUForward/DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-03` |
-| 0144 | [2. Search X in sorted array](./TakeUForward/DSA/Arrays/search-x-in-sorted-array) | [CPP](./TakeUForward/DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-27` |
+| 0144 | [2. Search X in sorted array](./TakeUForward/DSA/Arrays/search-x-in-sorted-array) | [CPP](./TakeUForward/DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-28` |
 | 0145 | [742. Second Highest Occurring Element](./TakeUForward/DSA/General/second-highest-occurring-element) | [CPP](./TakeUForward/DSA/General/second-highest-occurring-element/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-11-26` |
 | 0146 | [110. Segregate odd and even nodes in Linked List](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./TakeUForward/DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `DSA` | `2026-10-05` |
 | 0147 | [1031. Selection Sort](./TakeUForward/DSA/Arrays/selection-sort) | [CPP](./TakeUForward/DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `DSA` | `2026-10-05` |
